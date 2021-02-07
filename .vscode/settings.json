@@ -1,0 +1,12 @@
+{
+  "workbench.colorTheme": "Andromeda Italic Bordered",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "workbench.preferredLightColorTheme": "Monokai",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "C_Cpp.updateChannel": "Insiders",
+  "workbench.preferredDarkColorTheme": "Monokai",
+"editor.tokenColorCustomizations": null,
+"settingsSync.ignoredExtensions": [],
+"editor.fontFamily": " 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
+}
